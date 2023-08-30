@@ -53,7 +53,7 @@
   "work": [
     {
       "company": "UH Manoa Cybersecurity Training",
-      "position": "",
+      "position": "Student employee",
       "website": "",
       "startDate": "2023-02-01",
       "endDate": "2023-05-01",
@@ -90,7 +90,7 @@
   ],
   "volunteer": [
   ],
-  "awards": ["name": "Most Distinguished College Project - Phi Theta Kappa 2021"
+  "awards": [{"name": "Most Distinguished College Project - Phi Theta Kappa 2021"}
 
   ],
   "references": [
