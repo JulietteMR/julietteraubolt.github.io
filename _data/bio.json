@@ -90,7 +90,12 @@
   ],
   "volunteer": [
   ],
-  "awards": [{"name": "Most Distinguished College Project - Phi Theta Kappa 2021"}
+  "awards": [
+    {      
+      "title": "Most Distinguished College Project",
+      "date": "2022-04-11",
+      "awarder": "Phi Theta Kappa Nevada/California",
+      "summary": "I served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevadea California region and on a national level were recongnized as a Distinguished Chapter Project"}
 
   ],
   "references": [
