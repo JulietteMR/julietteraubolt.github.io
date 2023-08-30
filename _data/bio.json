@@ -15,16 +15,19 @@
   },
   "interests": [
     { "name": "Cybersecurity" },
+    { "name": "Computer Science" },
+    { "name": "Network Security" },
+    { "name": "Reading" },
     { "name": "Sharks"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Java", "Javascript", "Assembly"]
+      "keywords": [ "Python", "C++", "Java", "Javascript", "Assembly", "SQL"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++"]
+      "keywords": [ "MacOS", "Ubuntu", "Windows", "Git/GitHub", "Wireshark", "g++", "Cisco SNA"]
     }
   ],
   "education": [
@@ -34,6 +37,15 @@
       "studyType": "B.S.",
       "startDate": "2023-01-01",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Saddleback Community College",
+      "area": "Computer Science/Physics/Cybersecurity/Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2020-07-01",
+      "endDate": "2022-12-16",
       "courses": [
       ]
     }
@@ -59,14 +71,26 @@
       "endDate": "2023-07-29",
       "summary": "",
       "highlights": [
-        "Work with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team",
+        "Work with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team.",
         "Complete projects and day to day tasks, shadow meetings, and attend webinars. "
+      ]
+    },
+        {
+      "company": "Self Employed Tutoring",
+      "position": "Private Tutor",
+      "website": "",
+      "startDate": "2021-02-1",
+      "endDate": "2022-12-29",
+      "summary": "Tutor students in math, physics, and computer science",
+      "highlights": [
+        "Meet with students (mainly high school) for tutoring in various subjects including math, physics, chemistry, and computer science.",
+        "Manage communication and scheduling with the students and parents, utilized Calendly for scheduling."
       ]
     }
   ],
   "volunteer": [
   ],
-  "awards": [
+  "awards": ["name": "Most Distinguished College Project - Phi Theta Kappa 2021"
 
   ],
   "references": [
