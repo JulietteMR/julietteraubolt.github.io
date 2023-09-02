@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/deauthcomm2.png
 title: "Wifi Security Scripting"
 date: 2023
 published: true
@@ -15,7 +15,7 @@ labels:
 summary: "On campus job tasked with researching and experimenting with wifi security. "
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/wepcracked.png">
 
 One semester I was looking through the on campus jobs offered at the University of Hawaii at Manoa, debating if I should work that semester or not. When I came across a job listed as Cybersecurity Training my answer became a quick yes I should get a job if it means I could get this one. Upon beginning my new job I was excited to find that the subject of the semester was wifi security. This meant that I got to spend time researching and experimenting different wifi standards and smart devices that used the internet like smart light bulbs. 
 
