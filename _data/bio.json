@@ -48,6 +48,24 @@
       "endDate": "2022-12-16",
       "courses": [
       ]
+    }, 
+        {
+      "institution": "Orange Coast College",
+      "area": "Computer Science//Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2021-07-01",
+      "endDate": "2022-12-16",
+      "courses": [
+      ]
+    }, 
+        {
+      "institution": "Irvine Valley College",
+      "area": "Computer Science/Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-16",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -76,6 +94,18 @@
       ]
     },
         {
+      "company": "University of California, Irvine",
+      "position": "Physical Sciences Computer Support Group (PSCSG) student intern",
+      "website": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-04-01",
+      "summary": "",
+      "highlights": [
+        "Serve as a student intern for the Physical Sciences Computer Support Group.",
+        "Assist in any IT tasks for the physical sciences department from web developmentto wifi troubleshooting or network security."
+      ]
+    },
+        {
       "company": "Self Employed Tutoring",
       "position": "Private Tutor",
       "website": "",
@@ -95,7 +125,7 @@
       "title": "Most Distinguished College Project",
       "date": "2022-04-11",
       "awarder": "Phi Theta Kappa Nevada/California",
-      "summary": "I served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevadea California region and on a national level were recongnized as a Distinguished Chapter Project"}
+      "summary": "Served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevadea California region and on a national level were recongnized as a Distinguished Chapter Project"}
 
   ],
   "references": [
