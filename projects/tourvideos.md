@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/tourvid2.png
 title: "Tour Videos - Phi Theta Kappa College Project"
 date: 2021
 published: true
@@ -11,6 +11,7 @@ labels:
   - Video Production
 summary: "A series of tour videos that provided a tour around Saddleback Community College campus with descriptions of how to get around each building. "
 ---
+<img class="img-fluid" src="../img/tourvid1.png">
 
 During my time at Saddleback I joined the Phi Theta Kappa honors society and became the VP of Service. As the VP of Service a primary responsibility was leading the yearly College Project. The College Project is a service project that is meant to give back to the college administration. 
 
@@ -21,3 +22,5 @@ To execute this project we identified the strengths and capabilities of the team
 Taking all of the feedback into consideration we landed on the idea that it would be most effective to make a seperate video for each building that consisted of a walkthrough with a voiceover explaining key features of each building. The outcome of this project was a series of __ videos posted to the Honor's Program YouTube page and the Student Support Hub (a common point for students to quickly access resources in Canvas, the primary platform that students and professors utilized). 
 
 Following the completion of the project, my team put together a write up to submit the details of our chapter's college project to our region and ultimately the entire organization. It was at this point that we received the award Most Distinguished College Porject in the Nevada California region along with Distinguished Chapter Project on a natiional level. It was rewarding seeing the outcomes of this project, from the feedback on the videos to the awards we received. This was the first genuine opportunity I had to lead a team on a real project. 
+
+Source: <a href="https://www.youtube.com/@saddlebackhonors7479/featured"><i class="large github icon "></i>Tour Videos</a>
