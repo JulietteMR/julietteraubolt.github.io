@@ -6,7 +6,7 @@ title: "To Code or not to Code: The Role Software Engineering Plays in my Future
 date: 2023-09-01
 published: true
 labels:
-  - Software engineering
+  - Software Engineering
   - Cybersecurity
   - University of California, Irvine
 ---
