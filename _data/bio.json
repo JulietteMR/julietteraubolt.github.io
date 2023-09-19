@@ -10,15 +10,15 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "julietteraubolt", "url": "http://github.com/julietteraubolt" },
-      { "network": "linkedin", "username": "Juliette Raubolt", "url": "http://linkedin.com/in/juliette-raubolt-6a518b281" }
+      { "network": "linkedin", "username": "Juliette Raubolt", "url": "www.linkedin.com/in/juliette-raubolt-6a518b281" }
     ]
   },
   "interests": [
-    { "name": "Cybersecurity" },
-    { "name": "Computer Science" },
-    { "name": "Network Security" },
-    { "name": "Reading" },
-    { "name": "Sharks"}
+    { "name":"Cybersecurity" },
+    { "name":"Computer Science" },
+    { "name":"Network Security" },
+    { "name":"Reading" },
+    { "name":"Sharks"}
   ],
   "skills": [
     {
@@ -119,6 +119,22 @@
     }
   ],
   "volunteer": [
+  	{"organization": "National Cyber League",
+      "website": "",
+      "position": "CTF competition participant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]},
+        	{"organization": "Hivestorm",
+      "website": "",
+      "position": "Hivestorm competition participant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]}
   ],
   "awards": [
     {      
