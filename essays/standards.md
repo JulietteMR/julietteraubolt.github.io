@@ -12,6 +12,8 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/check.png">
 
+
+
 ## The Potential of Coding Standards
 
 Coding standards have the potential to strengthen a programmer’s capabilities through improving their code quality, given the standards are practiced properly. It is easy to shrug off coding standards as simply a tedious burden because many either do not understand the potential benefits, remember the specific details, or they save it all for the end which can be an excruciating task in itself on top of coding in the first place. The concept behind coding standards is that when offering a comprehensive set of guidelines and best practices for programmers to adhere to when writing code, then the quality of the software produced will be improved. Considerably, it is when a programmer has an understanding of these standards and puts them into practice as they code that the software and software engineer can benefit. Among these advantages is the improved consistency throughout the code, ensuring a uniform style and structural approach is followed. This consistency means that code is more readable and comprehensible, ultimately aiding collaboration among programmers as they can more easily work with and understand each other's code. Beyond consistency, coding standards also instill good programming practices that emphasize efficient and secure code. This leads to better code clarity while also reducing the likelihood of errors and vulnerabilities. By steadfastly adhering to coding standards, coders can produce software that is not only more robust, but also easier to maintain, ultimately strengthening their capabilities and quality in the long run.
