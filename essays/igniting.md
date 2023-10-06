@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Web Development Gamechanger: The Capabilities of UI Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-085
+date: 2023-10-05
 published: true
 labels:
   - Web Development
@@ -13,7 +13,7 @@ labels:
   - Boostrap
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/recreate/">
+<img width="300px" class="rounded float-start pe-4" src="../img/recreate.png/">
 
 ## First Impressions
 
