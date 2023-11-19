@@ -16,6 +16,7 @@ The images show the prompt and response from chatGPT as a starting point of this
 <img width="300px" class="rounded float-start pe-4" src="../img/ai1.png">
 <img width="300px" class="rounded float-start pe-4" src="../img/ai2.png">
 <img width="300px" class="rounded float-start pe-4" src="../img/ai3.png">
+<br>
 
 ## Introduction
 The integration of Artificial Intelligence (AI) in education has revolutionized the learning landscape, providing innovative tools and methods to enhance the educational experience. In the field of Software Engineering, the role of AI is particularly significant, shaping the way students acquire and apply knowledge in this rapidly evolving domain. Considerably, the introduction of AI is a double edged sword of sorts with a fine line between a tool that enhances learning and a tool that limits comprehension. 
