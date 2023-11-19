@@ -13,9 +13,9 @@ labels:
 ---
 The images show the prompt and response from chatGPT as a starting point of this essay.
 <br>
-<img width="300px" class="rounded float-start pe-4" src="../img/ai1.png">
-<img width="300px" class="rounded float-start pe-4" src="../img/ai2.png">
-<img width="300px" class="rounded float-start pe-4" src="../img/ai3.png">
+<img width="330px" class="rounded pe-4" src="../img/ai1.png">
+<img width="330px" class="rounded pe-4" src="../img/ai2.png">
+<img width="330px" class="rounded pe-4" src="../img/ai3.png">
 <br>
 
 ## Introduction
