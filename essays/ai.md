@@ -25,45 +25,60 @@ Personally I have used chatGPT and GitHub CoPilot heavily in ICS 314 to assist m
 
 ## Personal Experience with AI
 1. Experience WODs e.g. E18 
+
 Very useful in debugging and quickly resolving small details. For instance very useful in the bootstrap experiences when having syntax issues, alignment issues, or for how to have text float on an image. 
 
 2. In-class Practice WODs
+
 Helpful to use as a hint when I got stuck. For instance I had issues with the background image in murphys and I was able to explain my issue to chatGPT which solved the problem. 
 
 3. In-class WODs 
+
 Life saver when time was running out and I needed to quickly understand the problems in my code. During one of the first few WODs I had a typo in the work constructor and I was not seeing that error until chatGPT helped me catch it quickly. 
 
 4. Essays
+
 I used chatGPT as a starting point for this essay and it was quite useful. Considerably, I could not use it in every section such as this section, but in most sections it served as a starting point and I just had to go back and edit the established paragraph and then add a paragraph relevant to me and my experience. 
 
 5. Final project 
+
 Surprisingly capable in helping me implement various features or better understand small meteor details. For instance, I needed help figuring out how to list bullet point items in two columns and it worked great. Though not always the most useful in some debugging situations since the project is too large to easily copy and paste code into chatGPT. GitHub CoPilot is also immensely powerful and as long as I know what I am expecting to write, makes the code development go much faster. 
 
 6. Learning a concept / tutorial
+
 Has its limitations, useful if used in context with other resources. Could not rely only on chatGPT to use bootstrap but was a helpful supplement. 
 
 7. Answering a question in class or in Discord
+
 If I am asking a question in class or in Discord it was because AI was not very helpful.  
 
 8. Asking or answering a smart-question 
+
 It just depends on the complexity and size of the question. For specific questions can be very useful, but for large or ambiguous questions, AI assistance had limitations
 
 9. Coding example e.g. “give an example of using Underscore .pluck” 
+
 Very useful in providing and explaining examples as long as I ask the question correctly. For instance how do I create a bullet list from an array of items using meteor and react. 
 
 10. Explaining code 
+
 Very useful in that I could have code explained line by line and ask for more details and explanations. When solutions to the in class practice WODs would be posted and I was confused on a section AI helped me understand what was going on. 
 
 11. Writing code 
+
 Useful to an extent, generally the less code written by AI the more reliable. Though also useful in editing code I have already written. I found that in the final project I could paste my written code and then ask chatGPT to customize one part of it and it would work well. Oftentimes styling details is the most effective. 
 
 12. Documenting code
+
 I have yet to really use this feature.
 
 13. Quality assurance e.g. What’s wrong with this code or Fix the ESLint errors 
+
 Have not tried it with ESLint errors, but with errors with the code itself could be very useful. For instance in early WODs I had javascript syntax errors and chatGPT would be very capable of finding and fixing the issue. 
 
-14. Other uses in ICS 314 not listed - Generally AI was useful in small pieces, whether that be how to get started, add a functionality, or tweak established code. When relied on too much was when it became less useful.
+14. Other uses in ICS 314 not listed
+
+Generally AI was useful in small pieces, whether that be how to get started, add a functionality, or tweak established code. When relied on too much was when it became less useful.
 
 ## Impact on Learning and Understanding
 My experience with AI in the context of Software Engineering has been extremely useful. The incorporation of AI technologies has allowed me to refine skills and fill in learning gaps. WIth AI, I was able to make more use of my time as I worked on course tasks. Rather than spending the time searching for a solution to my problems and questions, looking through documentation, articles, and other resources, I was able to use chatGPT to fill in those smaller questions of topics I already took the time to understand on a grander level. For instance, I understood the concept, use, and structure of bootstrap, but niche formatting details were easier to understand with the help of AI.  
