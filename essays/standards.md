@@ -9,9 +9,9 @@ labels:
   - Coding Standards
   - ESLint
 ---
-
+<br>
 <img width="100px" class="rounded float-start pe-4" src="../img/check.png">
-
+<br>
 
 
 ## The Potential of Coding Standards
