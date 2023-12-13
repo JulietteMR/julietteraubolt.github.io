@@ -6,7 +6,7 @@
     "email": "jraubolt@hawaii.edu",
     "phone": "480-239-2024",
     "website": "https://julietteraubolt.github.io",
-    "summary": "I am studying for a B.S. in Computer Science with a Security Science focus in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science with a Security Science focus in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate with my bachelor's in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "julietteraubolt", "url": "http://github.com/julietteraubolt" },
@@ -18,7 +18,8 @@
     { "name":"Computer Science" },
     { "name":"Network Security" },
     { "name":"Reading" },
-    { "name":"Sharks"}
+    { "name":"Gardening" },
+    { "name":"TV and Movies"}
   ],
   "skills": [
     {
@@ -33,7 +34,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science - Security Science (expected Fall, 2024)",
+      "area": "Computer Science - Security Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2023-01-01",
       "endDate": "Present",
@@ -82,6 +83,18 @@
       ]
     },
     {
+      "company": "Keiki Coders",
+      "position": "Student teacher",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Conduct programming classes to teach middle schoolers how to code",
+      "highlights": [
+        "Each week go to a middle school such as Kaimuki Middle School and conduct introductory lessons on python coding.",
+        "Guide students in projects to help them establish programming basics."
+      ]
+    },
+    {
       "company": "Reyes Holdings LLC.",
       "position": "GRC (Governance Risk and Compliance) intern",
       "website": "",
@@ -122,17 +135,25 @@
   	{"organization": "National Cyber League",
       "website": "",
       "position": "CTF competition participant",
-      "startDate": "",
+      "startDate": "Spring and Fall Semesters",
       "endDate": "",
-      "summary": "",
+      "summary": "Compete in the National Cyber League Capture the Flag competitions with the individual and team game.",
+      "highlights": [
+      ]},
+    {"organization": "NSA Codebreakers challege",
+      "website": "",
+      "position": "competition participant",
+      "startDate": "Fall Semesters",
+      "endDate": "",
+      "summary": "Complete as many of the nine tasks released each year in the NSA Codebreakers challenge.",
       "highlights": [
       ]},
         	{"organization": "Hivestorm",
       "website": "",
       "position": "Hivestorm competition participant",
-      "startDate": "",
+      "startDate": "Fall Semesters",
       "endDate": "",
-      "summary": "",
+      "summary": "Secure various systems to the highest degree possible in the alotted time.",
       "highlights": [
       ]}
   ],
