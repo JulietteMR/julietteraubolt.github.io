@@ -4,7 +4,7 @@ type: essay
 title: "To Code or not to Code: The Role Software Engineering Plays in my Future Career"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-01
-published: true
+published: false
 labels:
   - Software Engineering
   - Cybersecurity
