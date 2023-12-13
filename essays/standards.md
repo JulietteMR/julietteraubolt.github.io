@@ -4,7 +4,7 @@ type: essay
 title: "Practical, Easy, Quality: The Role of Coding Standards and ESLint in Improving Code Quality"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
-published: true
+published: false
 labels:
   - Coding Standards
   - ESLint
