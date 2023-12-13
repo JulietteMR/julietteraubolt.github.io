@@ -13,8 +13,10 @@ labels:
   - Boostrap
 ---
 <br>
-<img width="300px" class="rounded float-start pe-4" src="../img/recreate.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/recreate.png">
 <br>
+
+
 
 ## First Impressions
 
