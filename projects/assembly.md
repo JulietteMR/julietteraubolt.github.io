@@ -12,7 +12,9 @@ labels:
 summary: "Implement a text editor using assembly on a raspberry pi with arm64 architecture for a class project."
 ---
 
-<img class="img-fluid" src="../img/rasm4pt2.png">
+
+<img class="img-fluid" width="500px" src="../img/rasm4pt2.png">
+
 
 ## The Task
 While taking a course in assembly language we were tasked with a project that mimics a text editor. The task was to create a program that allowed users to add text via input or file, view, edit, delete, search, and save the text to a file. This project was done on a raspberry pi with arm64 architecture. I completed this project with a partner where we split the function amongst each other. Notably, this project built upon a previous project in the course that was about creating a string class that allowed a user to manipulate strings with various methods. Utilizing this initial string project we were able to call the functions we previously created while implementing the text editor. 
