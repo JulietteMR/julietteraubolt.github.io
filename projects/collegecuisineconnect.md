@@ -13,9 +13,16 @@ labels:
   - GitHub
 summary: "A web application that serves as a recipe hub for college students. "
 ---
+
+Home Page:
 <img class="img-fluid" src="../img/home.png">
+
+Recipe Page:
 <img class="img-fluid" src="../img/recipe.png">
+
+Vendor Page:
 <img class="img-fluid" src="../img/vendor.png">
+
 
 ## The Task and the Final Product
 During a software engineering class, I worked with four other students on a final project that culminated what we had learned in the class. We were to build a web application using a Meteor React template that featured various capabilities such as a navigational bar and user accounts. The specific application we were tasked with was a recipe hub for college students where they could get recipe inspirations while also sharing their own. The final product was called <a href="https://collegecuisineconnect.site/home"><i class="large github icon "></i>College Cuisine Connect</a>. Since the project was tailored to college students the recipes were meant to be simple and doable with minimal equipment. Additionally there was a vendor functionality where they could see local stores and the ingredients they sold to determine where to go to get the needed ingredients for their desired recipes. The goal of this project was to create an environment that helped college students transition to cooking with often limited supplies and limited experience. 
