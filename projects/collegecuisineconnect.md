@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tourvid2.png
+image: img/home2.png
 title: "College Cuisine Connect"
 date: 2023
 published: true
