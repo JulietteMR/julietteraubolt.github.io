@@ -70,28 +70,28 @@
     }
   ],
   "work": [
+     {
+      "company": "Keiki Coders",
+      "position": "Student teacher",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "Conduct programming classes that introduce middle schoolers to coding.",
+      "highlights": [
+        "Each week go to a middle school such as Kaimuki Middle School and conduct introductory lessons on python coding.",
+        "Guide students in projects to help them establish programming basics."
+      ]
+    },
     {
       "company": "UH Manoa Cybersecurity Training",
       "position": "Student employee",
       "website": "",
       "startDate": "2023-02-01",
       "endDate": "2023-05-01",
-      "summary": "Investigate wifi security",
+      "summary": "Investigate wifi security.",
       "highlights": [
         "Research and experiment with wifi security such as different protocols.",
-        "Use tools such as wireshark and aircrack and create scripts with scapy."
-      ]
-    },
-    {
-      "company": "Keiki Coders",
-      "position": "Student teacher",
-      "website": "",
-      "startDate": "2023-10-01",
-      "endDate": "Present",
-      "summary": "Conduct programming classes to teach middle schoolers how to code",
-      "highlights": [
-        "Each week go to a middle school such as Kaimuki Middle School and conduct introductory lessons on python coding.",
-        "Guide students in projects to help them establish programming basics."
+        "Use tools such as wireshark and aircrack then automate processes with python scripts using scapy."
       ]
     },
     {
@@ -100,7 +100,7 @@
       "website": "",
       "startDate": "2023-05-30",
       "endDate": "2023-07-29",
-      "summary": "",
+      "summary": "Work alongside various teams in the cybersecurity department.",
       "highlights": [
         "Work with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team.",
         "Complete projects and day to day tasks, shadow meetings, and attend webinars. "
@@ -112,7 +112,7 @@
       "website": "",
       "startDate": "2021-11-01",
       "endDate": "2022-04-01",
-      "summary": "",
+      "summary": "Aid in various IT tasks within the Physical Sciences Department.",
       "highlights": [
         "Serve as a student intern for the Physical Sciences Computer Support Group.",
         "Assist in any IT tasks for the physical sciences department from web developmentto wifi troubleshooting or network security."
@@ -124,7 +124,7 @@
       "website": "",
       "startDate": "2021-02-1",
       "endDate": "2022-12-29",
-      "summary": "Tutor students in math, physics, and computer science",
+      "summary": "Tutor students in math, physics, and computer science.",
       "highlights": [
         "Meet with students (mainly high school) for tutoring in various subjects including math, physics, chemistry, and computer science.",
         "Manage communication and scheduling with the students and parents, utilized Calendly for scheduling."
@@ -134,26 +134,26 @@
   "volunteer": [
   	{"organization": "National Cyber League",
       "website": "",
-      "position": "CTF competition participant",
-      "startDate": "Spring and Fall Semesters",
+      "position": "CTF (Capture the Flag) Competition Participant",
+      "startDate": "",
       "endDate": "",
       "summary": "Compete in the National Cyber League Capture the Flag competitions with the individual and team game.",
       "highlights": [
       ]},
-    {"organization": "NSA Codebreakers challege",
+    {"organization": "NSA Codebreakers Challege",
       "website": "",
-      "position": "competition participant",
-      "startDate": "Fall Semesters",
+      "position": "Competition Participant",
+      "startDate": "",
       "endDate": "",
       "summary": "Complete as many of the nine tasks released each year in the NSA Codebreakers challenge.",
       "highlights": [
       ]},
-        	{"organization": "Hivestorm",
+      {"organization": "Hivestorm",
       "website": "",
-      "position": "Hivestorm competition participant",
-      "startDate": "Fall Semesters",
+      "position": "Hivestorm Competition Participant",
+      "startDate": "",
       "endDate": "",
-      "summary": "Secure various systems to the highest degree possible in the alotted time.",
+      "summary": "Secure various systems such as Ubuntu machines or Windows servers to the highest degree possible in the alotted four hour time frame.",
       "highlights": [
       ]}
   ],
@@ -162,7 +162,7 @@
       "title": "Most Distinguished College Project",
       "date": "2022-04-11",
       "awarder": "Phi Theta Kappa Nevada/California",
-      "summary": "Served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevadea California region and on a national level were recongnized as a Distinguished Chapter Project"}
+      "summary": "Served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevadea California region and on a national level were recongnized as a Distinguished Chapter Project."}
 
   ],
   "references": [
