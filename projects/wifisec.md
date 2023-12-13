@@ -4,7 +4,7 @@ type: project
 image: img/deauthcomm2.png
 title: "Wifi Security Scripting"
 date: 2023
-published: true
+published: false
 labels:
   - Wifi
   - Wireshark
