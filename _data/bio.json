@@ -76,10 +76,8 @@
       "website": "",
       "startDate": "2023-10-01",
       "endDate": "Present",
-      "summary": "Conduct programming classes that introduce middle schoolers to coding.",
+      "summary": "Work as a student teacher, aiding in programming classes that introduce sicth graders at Kaimuki Middle School to coding. Introduce programming and python topics to middle schoolers through lessons and demos. Provide and help students with their own python projects that help them practice and establish the skills taught. Fill in where needed on materials or resources for the weekly lessons.",
       "highlights": [
-        "Each week go to a middle school such as Kaimuki Middle School and conduct introductory lessons on python coding.",
-        "Guide students in projects to help them establish programming basics."
       ]
     },
     {
@@ -88,10 +86,8 @@
       "website": "",
       "startDate": "2023-02-01",
       "endDate": "2023-05-01",
-      "summary": "Investigate wifi security.",
+      "summary": "On campus job that focused on investigating WiFi security. Research and experiment with various WiFi protocols to test the potential security and vulnerabilities. Different tasks include deauthenticating a user off of a network, cracking WEP and WPA protocols, experimenting with a smart lightbulb to learn and exploit the bulb over the network, and eventually creating python scripts that use tools like Scapy to automate these processes.",
       "highlights": [
-        "Research and experiment with wifi security such as different protocols.",
-        "Use tools such as wireshark and aircrack then automate processes with python scripts using scapy."
       ]
     },
     {
@@ -100,10 +96,8 @@
       "website": "",
       "startDate": "2023-05-30",
       "endDate": "2023-07-29",
-      "summary": "Work alongside various teams in the cybersecurity department.",
+      "summary": "Serve as the Governance, Risk, and Compliance Intern, working with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team. Shadowed meetings and worked on various tasks with each department. Created a remediation dashboard in PowerBI for the Red Team while also training alongside to learn about Microsoft AD misconfiguration exploits. Attended webinars and completed a third party risk assessment for Third Party Risk management department through analyzing SOC 2 Type 2 documents. Created a process for the Compliance Team on how to handle potential unauthorized servers on the network that skipped approval. Worked with security services in experimenting with network security and assessment tools to determine how the department can better use and configure their network analysis tools.",
       "highlights": [
-        "Work with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team.",
-        "Complete projects and day to day tasks, shadow meetings, and attend webinars. "
       ]
     },
         {
@@ -112,10 +106,8 @@
       "website": "",
       "startDate": "2021-11-01",
       "endDate": "2022-04-01",
-      "summary": "Aid in various IT tasks within the Physical Sciences Department.",
+      "summary": "Work as a student intern in the Physical Sciences Computer Support Group (PSCSG) completing various IT tasks for the department. Tasks ranged from developing LAMP stacks, assisting faculty with their webpages, setting up and fixing WiFi, monitoring network activity, and setting up machines and servers for the department or faculty. Learned to be adaptable when given an array of tasks from using Wireshark for investigating network anomalies for faculty to learning to use recovery tools when deleted or damaged hard drives were brought in.",
       "highlights": [
-        "Serve as a student intern for the Physical Sciences Computer Support Group.",
-        "Assist in any IT tasks for the physical sciences department from web developmentto wifi troubleshooting or network security."
       ]
     },
         {
@@ -124,10 +116,8 @@
       "website": "",
       "startDate": "2021-02-1",
       "endDate": "2022-12-29",
-      "summary": "Tutor students in math, physics, and computer science.",
+      "summary": "Serve as a private tutor for physics, math, computer science, and chemistry from elementary school up to college. Handle scheduling and communication with clients. At the peak when tutoring for up to 30 hours a week, utilized Calendly for scheduling of appointments. Learned to assist students in the structure that best supports them as I help them gain confidence and skills in their capabilities. ",
       "highlights": [
-        "Meet with students (mainly high school) for tutoring in various subjects including math, physics, chemistry, and computer science.",
-        "Manage communication and scheduling with the students and parents, utilized Calendly for scheduling."
       ]
     }
   ],
