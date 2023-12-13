@@ -6,7 +6,7 @@ title: "Working Smarter not Harder: AI as a Tool in Software Engineering Educati
 date: 2023-11-19
 published: true
 labels:
-  - Artificial Intelligenc
+  - Artificial Intelligence
   - chatGPT
   - GitHub CoPilot
   - Software Engineering Education
