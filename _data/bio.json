@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Juliette Raubolt",
+    "label": "Student",
+    "picture": "https://github.com/julietteraubolt.png",
+    "email": "jraubolt@hawaii.edu",
+    "phone": "480-239-2024",
+    "website": "https://julietteraubolt.github.io",
+    "summary": "I am studying for a B.S. in Computer Science with a Security Science focus in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate with my bachelor's in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "julietteraubolt", "url": "http://github.com/julietteraubolt" },
+      { "network": "linkedin", "username": "Juliette Raubolt", "url": "https://www.linkedin.com/in/juliette-raubolt-6a518b281/" }
+    ]
+  },
+  "interests": [
+    { "name":"Cybersecurity" },
+    { "name":"Computer Science" },
+    { "name":"Network Security" },
+    { "name":"Reading" },
+    { "name":"Gardening" },
+    { "name":"TV and Movies"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "C++", "Java", "Javascript", "Assembly", "SQL"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Windows", "Git/GitHub", "Wireshark", "g++", "Cisco SNA"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Security Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Saddleback Community College",
+      "area": "Computer Science/Physics/Cybersecurity/Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2020-07-01",
+      "endDate": "2022-12-16",
+      "courses": [
+      ]
+    }, 
+        {
+      "institution": "Orange Coast College",
+      "area": "Computer Science/Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2021-07-01",
+      "endDate": "2022-12-16",
+      "courses": [
+      ]
+    }, 
+        {
+      "institution": "Irvine Valley College",
+      "area": "Computer Science/Mathematics",
+      "studyType": "A.S.",
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-16",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+     {
+      "company": "Keiki Coders",
+      "position": "Student teacher",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Work as a student teacher, aiding in programming classes that introduce sicth graders at Kaimuki Middle School to coding. Introduce programming and python topics to middle schoolers through lessons and demos. Provide and help students with their own python projects that help them practice and establish the skills taught. Fill in where needed on materials or resources for the weekly lessons."
+      ]
+    },
+    {
+      "company": "UH Manoa Cybersecurity Training",
+      "position": "Student employee",
+      "website": "",
+      "startDate": "2023-02-01",
+      "endDate": "2023-05-01",
+      "summary": "",
+      "highlights": [
+        "On campus job that focused on investigating WiFi security. Research and experiment with various WiFi protocols to test the potential security and vulnerabilities. Different tasks include deauthenticating a user off of a network, cracking WEP and WPA protocols, experimenting with a smart lightbulb to learn and exploit the bulb over the network, and eventually creating python scripts that use tools like Scapy to automate these processes."
+      ]
+    },
+    {
+      "company": "Reyes Holdings LLC.",
+      "position": "GRC (Governance Risk and Compliance) intern",
+      "website": "",
+      "startDate": "2023-05-30",
+      "endDate": "2023-07-29",
+      "summary": "",
+      "highlights": [
+        "Serve as the Governance, Risk, and Compliance Intern, working with the Red Team, Third Party Risk Management and Exceptions Team, and the Compliance Team. Shadowed meetings and worked on various tasks with each department. Created a remediation dashboard in PowerBI for the Red Team while also training alongside to learn about Microsoft AD misconfiguration exploits. Attended webinars and completed a third party risk assessment for Third Party Risk management department through analyzing SOC 2 Type 2 documents. Created a process for the Compliance Team on how to handle potential unauthorized servers on the network that skipped approval. Worked with security services in experimenting with network security and assessment tools to determine how the department can better use and configure their network analysis tools."
+      ]
+    },
+        {
+      "company": "University of California, Irvine",
+      "position": "Physical Sciences Computer Support Group (PSCSG) student intern",
+      "website": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-04-01",
+      "summary": "",
+      "highlights": [
+        "Work as a student intern in the Physical Sciences Computer Support Group (PSCSG) completing various IT tasks for the department. Tasks ranged from developing LAMP stacks, assisting faculty with their webpages, setting up and fixing WiFi, monitoring network activity, and setting up machines and servers for the department or faculty. Learned to be adaptable when given an array of tasks from using Wireshark for investigating network anomalies for faculty to learning to use recovery tools when deleted or damaged hard drives were brought in."
+      ]
+    },
+    {
+      "company": "Self Employed Tutoring",
+      "position": "Private Tutor",
+      "website": "",
+      "startDate": "2021-02-1",
+      "endDate": "2022-12-29",
+      "summary": "",
+      "highlights": [
+        "Serve as a private tutor for physics, math, computer science, and chemistry from elementary school up to college. Handle scheduling and communication with clients. At the peak when tutoring for up to 30 hours a week, utilized Calendly for scheduling of appointments. Learned to assist students in the structure that best supports them as I help them gain confidence and skills in their capabilities. "
+      ]
+    }
+  ],
+  "volunteer": [
+  	{"organization": "National Cyber League",
+      "website": "",
+      "position": "CTF (Capture the Flag) Competition Participant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Compete in the National Cyber League Capture the Flag competitions with the individual and team game.",
+      "highlights": [
+      ]},
+    {"organization": "NSA Codebreakers Challege",
+      "website": "",
+      "position": "Competition Participant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Complete as many of the nine tasks released each year in the NSA Codebreakers challenge.",
+      "highlights": [
+      ]},
+      {"organization": "Hivestorm",
+      "website": "",
+      "position": "Hivestorm Competition Participant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Secure various systems such as Ubuntu machines or Windows servers to the highest degree possible in the alotted four hour time frame.",
+      "highlights": [
+      ]}
+  ],
+  "awards": [
+    {      
+      "title": "Most Distinguished College Project",
+      "date": "2022-04-11",
+      "awarder": "Phi Theta Kappa Nevada/California",
+      "summary": "Served as the lead for Saddleback's Phi Theta Kappa College Project, a service project meant to serve the college administration. For our project we created a series of tour videos for the campus. We received Most Distinguished College Project for the Nevada California region and on a national level were recongnized as a Distinguished Chapter Project."}
+
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
